@@ -1,2 +1,2 @@
 # This is a boilerplate for web-development with gulp
-Clone and run `gulp watch`
+Clone, run `npm install` and run `gulp watch`
