@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;   
+}
+/* SANITY CHECK */
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: lavender;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
