@@ -2,7 +2,7 @@
     console.log('santity check', $);
 
     $.ajax({
-        url: 'http://localhost:8080'
+        url: 'http://localhost:3001'
     }).done(function (data) {
         console.log(data);
         alert(data);
